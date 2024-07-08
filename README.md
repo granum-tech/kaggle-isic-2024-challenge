@@ -50,3 +50,7 @@ Delete zipped folder:
 ```bash
 rm isic-2024-challenge.zip
 ```
+
+## TO DO
+
+* Get data from previous competitions
